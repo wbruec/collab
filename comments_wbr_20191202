@@ -1,0 +1,18 @@
+*mulitline comments please beim Add task: https://pacific-sea-27657.herokuapp.com/projects/5/tasks/15
+*bei Add Task checkboxen dazu für todos.
+*Admin Stuff wurde der imgur Bild-Link nicht angezeigt.
+*Admin Stuff ein imgur Bild link hinzufügen hat sich aufgehängt - erst mit reload weiter.
+*im task - "take task" - dann "move State" hab ich nicht verstanden. 
+*Add task: error bei Adden von 1. Holz besorgen (Nussholz abkaufen); 2. Termine ausmachen; 3. OK für Werkstatt holen 4. Grobplanung besprechen; 5. Maschinen anschauen; 6a. Holz grob schneiden; 6b. Holz hobeln; 6c. Bretter genau zuschneiden; 6d. Holz schleifen; 6e. Öl aufbringen; 7. Abschluss / Aufräumen / Foto
+error message: SubmissionError, im FF debugger von neuer Version css die Rede.
+
+styles:
+*add task besser stylen - Tabelle, state und idea als buttons.
+*css framework für buttons etc einbinden.
+*Bild in Overview kleiner und beim scrollen links und rechts daneben (nur Desktop, mobil ausblenden).
+
+workflow
+*success messages - zB Task added, Project Created etc. 
+
+meta:
+*projekt forken und ausprobieren.
